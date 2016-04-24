@@ -1,3 +1,6 @@
 # datasciencecoursera
 Data Science course
-# Readme
+## smaller heading
+* bullet1
+* bullet2
+* bullet3
